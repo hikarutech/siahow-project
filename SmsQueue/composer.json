@@ -1,0 +1,17 @@
+{
+    "name": "siahow/sms-queue",
+    "description": "silverstreet exercise",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Siahow\\SmsQueue\\": "src/SmsQueue/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sia How",
+            "email": "shling@hikaru.com.my"
+        }
+    ],
+    "require": {}
+}
